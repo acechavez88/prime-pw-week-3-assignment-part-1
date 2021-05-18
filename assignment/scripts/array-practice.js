@@ -38,7 +38,9 @@ console.log('Second animal is', animalArray[1]);
 //Second animal is cat!!
 
 // 3.b. TODO: Log the last animal in the array using it's array index
-
+console.log('Last animal is', animalArray[3]);
+//Confirmed that the console reads third, or last, animal in array index
+// reads 'Last animal is Dog!!''
 
 // 3.c. (STRETCH) TODO: Log the last animal by using the array length,
 //      instead of the exact index number of the last item
