@@ -45,7 +45,9 @@ console.log('Last animal is', animalArray[3]);
 // 3.c. (STRETCH) TODO: Log the last animal by using the array length,
 //      instead of the exact index number of the last item
 
+console.log('Last animal is', foodArray.length.);
 
+// Work on this stretch. 
 
 // 4. Adding & Removing Array Items
 console.log('--- 4. Adding and removing array items ---');
