@@ -15,6 +15,7 @@ let foodArray = ['shrimp fettuccini alfredo', 'margherita pizza', 'angel hair pa
 //      to the example above
 
 
+console.log('Favorite foods are:', foodArray);
 
 // 2. Array.length - tells you how many items are in the array
 console.log('--- 2. Length of an array ---');
