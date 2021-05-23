@@ -44,10 +44,12 @@ console.log('Last animal is', animalArray[3]);
 
 // 3.c. (STRETCH) TODO: Log the last animal by using the array length,
 //      instead of the exact index number of the last item
+let Lastanimal = animalArray[animalArray.length-1];
+console.log('Last animal is', Lastanimal);
 
-console.log('Last animal is', foodArray.length.);
-
-// Work on this stretch. 
+// honestly i dont know how this worked but console log confirms it did. my
+// best guess is we made a new variable, gave it array value then indexed the array
+//while minusing the length by one in brackets and gave us the element dog. 
 
 // 4. Adding & Removing Array Items
 console.log('--- 4. Adding and removing array items ---');
